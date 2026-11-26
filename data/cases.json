@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "cases": {
+    "demo-01": {
+      "badge": "نسخة تجريبية #demo-01",
+      "title": "كفر هدية تفاعلي — عرض تجريبي",
+      "subtitle": "وجّه كاميرا هاتفك نحو تصميم الكفر لمشاهدة الفيديو والأزرار التفاعلية مباشرة",
+      "themeColor": "#38bdf8",
+      "targetMindUrl": "./assets/targets.mind",
+      "videoUrl": "./assets/demo-video.mp4",
+      "videoWidth": 1,
+      "videoHeight": 1.35,
+      "ctaButtons": [
+        {
+          "icon": "💬",
+          "label": "اطلب كفرك عبر واتساب",
+          "url": "https://wa.me/9647000000000"
+        },
+        {
+          "icon": "📸",
+          "label": "حسابنا على إنستغرام",
+          "url": "https://instagram.com/"
+        }
+      ]
+    },
+    "order-101": {
+      "badge": "طلب مخصص #order-101",
+      "title": "ذكرى خاصة — كفر مخصص",
+      "subtitle": "امسح تصميم الكفر لفتح الفيديو المهدى لك",
+      "themeColor": "#f472b6",
+      "targetMindUrl": "./assets/targets.mind",
+      "videoUrl": "./assets/demo-video.mp4",
+      "videoWidth": 1,
+      "videoHeight": 1.35,
+      "ctaButtons": [
+        {
+          "icon": "🎁",
+          "label": "رسالة الإهداء",
+          "url": "https://example.com"
+        }
+      ]
+    }
+  }
+}
